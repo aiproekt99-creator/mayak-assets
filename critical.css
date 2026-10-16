@@ -1,0 +1,8 @@
+html,body{margin:0;background:#0F1B34;color:#EBE3D3;font-family:'Manrope',sans-serif}
+html[data-theme="light"],html[data-theme="light"] body{background:#F0A05A;color:#2B1810}
+.t-body{background:#0F1B34!important;margin:0!important}
+html[data-theme="light"] .t-body{background:#F0A05A!important}
+.hero{background:#0F1B34}
+.marquee-band{background:#162038;min-height:60px;overflow:hidden;position:relative}
+html[data-theme="light"] .marquee-band{background:linear-gradient(180deg,#3A1810 0%,#5A2318 100%)!important;color:#F2C464!important}
+[hidden]{display:none!important}
